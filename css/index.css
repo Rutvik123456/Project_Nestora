@@ -1,0 +1,74 @@
+
+
+body{
+    padding: 0 14px;
+}
+
+div{
+    border: solid black 2px;
+}
+
+.slide{
+    height: 98vh;
+    width: 95vw;
+}
+
+.slide1{
+    display: flex;
+    position: relative;
+    
+}
+.div1{
+    
+    width: 61.1%;
+    height: 38.3%;
+
+    /* margin-top: 15.97%;
+    margin-left: 2.77%; */
+    position: absolute;
+    top: 110px;
+    left: 40px;
+}
+
+.div2{
+    width: 22.43%;
+    height: 70.25%;
+
+    /* margin-left: 2.91%; */
+    position: absolute;
+    top: 0px;
+    left: 962px;
+    
+}
+
+.div3{
+    position: absolute;
+    width: 14.02%;
+    height: 4.35%;
+
+    top: 68.08%;
+    left: 71.86%;
+}
+
+.div4{
+    position: absolute;
+    width: 12.14px;
+    height: 11.94px;
+
+    top: 504px;
+    left: 40px;
+}
+
+.slide4{
+    position: relative;
+    border: solid red;
+    
+}
+.divlatest{
+    position: absolute;
+    top: 220px;
+    left: 158px;
+
+    width: 345px;
+    height: 176px;
+}
