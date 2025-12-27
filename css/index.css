@@ -1,23 +1,20 @@
 
 
-body{
-    padding: 0 14px;
-}
 
 div{
-    border: solid black 2px;
+    border: solid rgb(8, 8, 8) 2px;
 }
 
 .slide{
-    height: 98vh;
-    width: 95vw;
-}
 
-.slide1{
     display: flex;
     position: relative;
-    
+
+    height: 98vh;
+    width: 98vw;
 }
+
+
 .div1{
     
     width: 61.1%;
@@ -26,8 +23,8 @@ div{
     /* margin-top: 15.97%;
     margin-left: 2.77%; */
     position: absolute;
-    top: 110px;
-    left: 40px;
+    top: 15.96%;
+    left: 2.70%;
 }
 
 .div2{
@@ -36,18 +33,19 @@ div{
 
     /* margin-left: 2.91%; */
     position: absolute;
-    top: 0px;
-    left: 962px;
+    top: 0%;
+    left: 66.89%;
     
 }
 
 .div3{
     position: absolute;
+
     width: 14.02%;
     height: 4.35%;
 
-    top: 68.08%;
-    left: 71.86%;
+    top: 68.06%;
+    left: 71.04%;
 }
 
 .div4{
@@ -55,8 +53,16 @@ div{
     width: 12.14px;
     height: 11.94px;
 
-    top: 504px;
-    left: 40px;
+    top: 73.14%;
+    left: 2.77%;
+}
+
+.navbar{
+    height: 4.70%;
+    width: 100%;		
+    
+    top: 0%;
+    position:sticky;
 }
 
 .slide4{
